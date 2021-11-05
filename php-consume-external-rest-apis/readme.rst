@@ -1,0 +1,1 @@
+Please follow the tutorial tutorial https://roytuts.com/php-consume-external-rest-apis/
